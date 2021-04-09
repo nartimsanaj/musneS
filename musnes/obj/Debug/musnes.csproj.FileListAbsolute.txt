@@ -1,0 +1,10 @@
+C:\Users\win10\source\repos\musnes\musnes\bin\Debug\musnes.exe.config
+C:\Users\win10\source\repos\musnes\musnes\bin\Debug\musnes.exe
+C:\Users\win10\source\repos\musnes\musnes\bin\Debug\musnes.pdb
+C:\Users\win10\source\repos\musnes\musnes\obj\Debug\musnes.csprojAssemblyReference.cache
+C:\Users\win10\source\repos\musnes\musnes\obj\Debug\musnes.Form1.resources
+C:\Users\win10\source\repos\musnes\musnes\obj\Debug\musnes.Properties.Resources.resources
+C:\Users\win10\source\repos\musnes\musnes\obj\Debug\musnes.csproj.GenerateResource.cache
+C:\Users\win10\source\repos\musnes\musnes\obj\Debug\musnes.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\musnes\musnes\obj\Debug\musnes.exe
+C:\Users\win10\source\repos\musnes\musnes\obj\Debug\musnes.pdb
